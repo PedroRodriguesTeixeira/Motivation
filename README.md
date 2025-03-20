@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8b488860-f276-43cd-9c4a-63dfc8b5c9a3)# 📱 Aplicativo Android de Exibição de Frases
+#📱 Aplicativo Android de Exibição de Frases
 
 Este é um aplicativo Android para exibição de frases, utilizando interações entre activities, XML, Gradle e outras ferramentas essenciais para o desenvolvimento mobile.
 
@@ -13,3 +13,5 @@ Esse projeto foi estruturado para proporcionar uma experiência fluida e organiz
 
 # Imagens
 ![image](https://github.com/user-attachments/assets/c8ebf412-ecac-40a3-8bc6-ebc0ed1c5416)
+![image](https://github.com/user-attachments/assets/94e8ad58-bbb3-439d-8589-021658c163d3)
+
