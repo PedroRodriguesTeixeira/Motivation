@@ -1,4 +1,4 @@
-#📱 Aplicativo Android de Exibição de Frases
+# 📱 Aplicativo Android de Exibição de Frases
 
 Este é um aplicativo Android para exibição de frases, utilizando interações entre activities, XML, Gradle e outras ferramentas essenciais para o desenvolvimento mobile.
 
